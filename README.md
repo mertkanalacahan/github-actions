@@ -331,3 +331,8 @@ This exercise illustrated the last step of the CI/CD pipeline, which is deliveri
 # Release notes
 
 This section should be populated by the *release* Action.
+
+## Release Notes — v1.4.1 — Emergency fix for cheese crust pizza (2026-11-02)
+
+- Patching a bug found when calculating cheese crust pizza delivery cost.
+- Slight UI improvements.
