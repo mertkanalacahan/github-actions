@@ -336,3 +336,8 @@ This section should be populated by the *release* Action.
 
 - Patching a bug found when calculating cheese crust pizza delivery cost.
 - Slight UI improvements.
+
+## Release Notes — v1.5.0 — Minor update for delivery to Mars (2026-11-02)
+
+- Can now calculate delivery to Mars!
+- Minor bug fixes
